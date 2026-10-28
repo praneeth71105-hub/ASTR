@@ -1,0 +1,101 @@
+transaction_id,account_id,amount,merchant,city,state
+ee20323c,AS95822412,51.45,grocery,UnknownTown,NA
+83e9e629,AS83197857,23.37,grocery,New York,CA
+49bcae26,AS41227216,90.96,electronics,UnknownTown,NA
+26101a34,AS83140807,68.32,fuel,New York,CA
+eabf69ce,AS66722344,62.99,fuel,New York,NY
+2aac75f9,AS60992979,248.36,gaming,Houston,AZ
+139b64eb,AS26753883,378.65,travel,Chicago,NA
+3594da5e,AS93016315,281.31,electronics,UnknownTown,NY
+bc5a0cc4,AS16150444,344.13,grocery,Los Angeles,NY
+620a0943,AS61019678,28.5,fuel,Los Angeles,IL
+a16990b3,AS57683626,42.61,gaming,UnknownTown,NY
+8b3e639a,AS91756179,155.52,electronics,Los Angeles,TX
+10f7c0d4,AS60929647,141.88,fuel,New York,CA
+a98fc699,AS14308421,235.4,grocery,Los Angeles,AZ
+a1b3e822,AS52235350,30.48,gaming,Houston,CA
+9ba2cb8c,AS45551614,120.39,fashion,Phoenix,TX
+79b4c22c,AS58586340,91.81,grocery,New York,CA
+1f3ee5cf,AS94214382,12.08,travel,New York,TX
+34aa3375,AS61220073,126.49,fuel,Phoenix,NY
+7b0619c6,AS25374874,188.78,fuel,UnknownTown,IL
+6b9f731e,AS24972279,56.66,grocery,UnknownTown,NA
+ec2fb565,AS45351479,91.49,gaming,Chicago,NA
+72804ef7,AS78137358,114.75,electronics,Phoenix,AZ
+8b64892f,AS10076758,129.69,grocery,Chicago,IL
+04de7571,AS42138745,87.5,travel,Los Angeles,CA
+265a11c7,AS98550256,81.16,fuel,Phoenix,AZ
+64dd224b,AS66792612,425.48,gaming,Chicago,TX
+e6e15e47,AS97225156,8.34,fashion,New York,CA
+3617a45c,AS40158366,115.27,grocery,New York,NA
+4dc261fe,AS94705205,24.03,travel,Los Angeles,IL
+94e19ef0,AS99788677,84.8,gaming,Phoenix,AZ
+8466c203,AS73440831,35.87,fashion,Los Angeles,NY
+112aea71,AS23009833,143.26,fashion,Houston,NA
+b5a1edeb,AS17270733,25.32,fuel,New York,CA
+70383339,AS35714784,31.18,fashion,Los Angeles,IL
+c29367ad,AS72092888,41.51,travel,New York,NY
+7fc5d9a1,AS97529405,198.2,fashion,Houston,CA
+b741ae81,AS63826716,223.43,grocery,Houston,IL
+53900985,AS71070189,23.67,gaming,Phoenix,NA
+af129ffc,AS75319931,35.65,grocery,Phoenix,NA
+e5b1d51f,AS82772208,26.92,grocery,Phoenix,TX
+36e6e4d5,AS77491435,486.83,grocery,Phoenix,NY
+1c181005,AS34941004,282.92,travel,Los Angeles,AZ
+f76d40d3,AS89795010,178.23,fuel,Chicago,CA
+433983d4,AS99889098,153.83,fashion,Los Angeles,NA
+ee1d67b5,AS96637649,51.84,grocery,New York,TX
+62ef94a7,AS93370583,32.35,fuel,Los Angeles,IL
+0b907242,AS19233013,280.12,electronics,Houston,AZ
+52860c7c,AS50603163,211.47,gaming,New York,CA
+07eb2643,AS45496015,103.34,travel,Los Angeles,NA
+c4d4540b,AS56020613,19.51,fuel,Phoenix,TX
+37ed7011,AS43704923,23.7,fuel,New York,NY
+9a78cf24,AS54769200,368.66,fuel,Los Angeles,NA
+e8e41733,AS69302158,106.74,grocery,New York,NY
+3ed7cb08,AS30005727,151.43,travel,Phoenix,CA
+c37444ee,AS67684996,32.58,grocery,Chicago,CA
+8c4ecb95,AS43491314,146.55,travel,Houston,AZ
+3dddf79e,AS30743797,257.92,electronics,Los Angeles,TX
+6961722e,AS13326769,222.7,gaming,UnknownTown,CA
+1365d16f,AS45810056,10.46,fashion,New York,TX
+c7a8b879,AS39854548,18.53,electronics,Los Angeles,NY
+b20f484a,AS98588154,38.01,grocery,Chicago,IL
+eae68c57,AS96098221,95.14,travel,Chicago,NY
+71b88271,AS25480907,235.82,travel,Chicago,NY
+335beb1b,AS24549543,118.93,fuel,Houston,AZ
+34db142f,AS78642041,70.01,travel,UnknownTown,NA
+8309762f,AS36445607,68.34,gaming,Chicago,AZ
+548e6de3,AS52133044,128.02,fuel,Phoenix,IL
+20cbb8cf,AS99508850,67.41,fuel,Phoenix,CA
+135a9650,AS35748341,7.26,gaming,UnknownTown,CA
+6e4b8dfa,AS92613013,112.12,grocery,Chicago,IL
+363bccca,AS38210242,65.69,gaming,Chicago,TX
+933cf72d,AS69295515,78.35,fashion,UnknownTown,CA
+d09613d1,AS98429450,17.87,gaming,Phoenix,IL
+eaa939f3,AS22534217,1006.82,gaming,Chicago,CA
+996f52f3,AS36726767,228.23,gaming,Phoenix,CA
+85b680b2,AS61536717,88.76,gaming,UnknownTown,NY
+b4a7d847,AS24305904,176.37,gaming,Phoenix,TX
+01403052,AS16740197,334.49,grocery,Houston,CA
+333fe24e,AS72363359,3312.24,fashion,Phoenix,NA
+17bc77f8,AS77750178,20.41,fashion,Los Angeles,NA
+e3b18b04,AS73709724,61.58,gaming,Chicago,AZ
+7c04d44d,AS75041510,125.18,grocery,UnknownTown,IL
+0b42e385,AS41473195,47.79,travel,New York,CA
+df0688b1,AS30244148,17.17,gaming,Los Angeles,NY
+8a3ae5e5,AS65682626,61.48,fashion,New York,CA
+e3bee3e6,AS66390708,36.38,gaming,New York,AZ
+c3920431,AS61053877,42.15,fuel,Houston,TX
+837bbd44,AS82238741,251.92,travel,Los Angeles,TX
+e030ba9a,AS39450273,39.13,fashion,Chicago,NA
+0a67a23e,AS64266464,1277.21,electronics,Phoenix,AZ
+6b0f159e,AS13619375,590.89,gaming,New York,NY
+75caa351,AS96268397,32.73,electronics,New York,IL
+f3c79cda,AS60882459,49.53,fuel,Houston,IL
+a11a7965,AS66581473,54.1,grocery,UnknownTown,AZ
+3cf261aa,AS16990811,328.7,gaming,New York,NY
+cd008f13,AS43189803,42.49,gaming,New York,AZ
+f6880a14,AS39254705,82.38,fuel,Los Angeles,AZ
+389d4186,AS91503378,168.49,fuel,New York,AZ
+210bbf5f,AS13446499,606.63,fashion,Houston,NA
